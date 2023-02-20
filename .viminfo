@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676859178,,"wq"
+|2,0,1676865473,,"wq"
 :WQ
 |2,0,1676380773,,"WQ"
 :wqq
@@ -80,36 +80,50 @@
 |3,1,36,0,1,0,1676090019,"c"
 
 # File marks:
-'0  3  0  /0x00-shell_basics/14-copy_html
-|4,48,3,0,1676859178,"/0x00-shell_basics/14-copy_html"
-'1  3  0  /0x00-shell_basics/13-symbolic_link
-|4,49,3,0,1676859126,"/0x00-shell_basics/13-symbolic_link"
-'2  3  0  /0x00-shell_basics/11-lists
-|4,50,3,0,1676859060,"/0x00-shell_basics/11-lists"
-'3  3  0  /0x00-shell_basics/8-firstdelete
-|4,51,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
-'4  3  0  /0x00-shell_basics/7-movethatfile
-|4,52,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
-'5  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,53,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
-'6  2  0  ~/0x00-shell_basics/5-listfilesdigitonly
-|4,54,2,0,1676858429,"~/0x00-shell_basics/5-listfilesdigitonly"
-'7  2  0  /0x02-shell_redirections/8-cwd_state
-|4,55,2,0,1676396011,"/0x02-shell_redirections/8-cwd_state"
-'8  2  20  /0x02-shell_redirections/7-file
-|4,56,2,20,1676395889,"/0x02-shell_redirections/7-file"
-'9  2  26  /0x02-shell_redirections/6-third_line
-|4,57,2,26,1676395716,"/0x02-shell_redirections/6-third_line"
+'0  2  37  /alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
+|4,48,2,37,1676865473,"/alx-system_engineering-devops/0x00-shell_basics/7-movethatfile"
+'1  3  0  /0x00-shell_basics/14-copy_html
+|4,49,3,0,1676859178,"/0x00-shell_basics/14-copy_html"
+'2  3  0  /0x00-shell_basics/13-symbolic_link
+|4,50,3,0,1676859126,"/0x00-shell_basics/13-symbolic_link"
+'3  3  0  /0x00-shell_basics/11-lists
+|4,51,3,0,1676859060,"/0x00-shell_basics/11-lists"
+'4  3  0  /0x00-shell_basics/8-firstdelete
+|4,52,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+'5  3  0  /0x00-shell_basics/7-movethatfile
+|4,53,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+'6  2  0  /0x00-shell_basics/5-listfilesdigitonly
+|4,54,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
+'7  2  0  ~/0x00-shell_basics/5-listfilesdigitonly
+|4,55,2,0,1676858429,"~/0x00-shell_basics/5-listfilesdigitonly"
+'8  2  0  /0x02-shell_redirections/8-cwd_state
+|4,56,2,0,1676396011,"/0x02-shell_redirections/8-cwd_state"
+'9  2  20  /0x02-shell_redirections/7-file
+|4,57,2,20,1676395889,"/0x02-shell_redirections/7-file"
 
 # Jumplist (newest first):
+-'  2  37  /alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
+|4,39,2,37,1676865473,"/alx-system_engineering-devops/0x00-shell_basics/7-movethatfile"
 -'  3  0  /0x00-shell_basics/14-copy_html
 |4,39,3,0,1676859178,"/0x00-shell_basics/14-copy_html"
+-'  3  0  /0x00-shell_basics/14-copy_html
+|4,39,3,0,1676859178,"/0x00-shell_basics/14-copy_html"
+-'  1  0  /0x00-shell_basics/14-copy_html
+|4,39,1,0,1676859149,"/0x00-shell_basics/14-copy_html"
 -'  1  0  /0x00-shell_basics/14-copy_html
 |4,39,1,0,1676859149,"/0x00-shell_basics/14-copy_html"
 -'  3  0  /0x00-shell_basics/13-symbolic_link
 |4,39,3,0,1676859126,"/0x00-shell_basics/13-symbolic_link"
 -'  3  0  /0x00-shell_basics/13-symbolic_link
 |4,39,3,0,1676859126,"/0x00-shell_basics/13-symbolic_link"
+-'  3  0  /0x00-shell_basics/13-symbolic_link
+|4,39,3,0,1676859126,"/0x00-shell_basics/13-symbolic_link"
+-'  3  0  /0x00-shell_basics/13-symbolic_link
+|4,39,3,0,1676859126,"/0x00-shell_basics/13-symbolic_link"
+-'  1  0  /0x00-shell_basics/13-symbolic_link
+|4,39,1,0,1676859085,"/0x00-shell_basics/13-symbolic_link"
+-'  1  0  /0x00-shell_basics/13-symbolic_link
+|4,39,1,0,1676859085,"/0x00-shell_basics/13-symbolic_link"
 -'  1  0  /0x00-shell_basics/13-symbolic_link
 |4,39,1,0,1676859085,"/0x00-shell_basics/13-symbolic_link"
 -'  1  0  /0x00-shell_basics/13-symbolic_link
@@ -122,6 +136,22 @@
 |4,39,3,0,1676859060,"/0x00-shell_basics/11-lists"
 -'  3  0  /0x00-shell_basics/11-lists
 |4,39,3,0,1676859060,"/0x00-shell_basics/11-lists"
+-'  3  0  /0x00-shell_basics/11-lists
+|4,39,3,0,1676859060,"/0x00-shell_basics/11-lists"
+-'  3  0  /0x00-shell_basics/11-lists
+|4,39,3,0,1676859060,"/0x00-shell_basics/11-lists"
+-'  3  0  /0x00-shell_basics/11-lists
+|4,39,3,0,1676859060,"/0x00-shell_basics/11-lists"
+-'  3  0  /0x00-shell_basics/11-lists
+|4,39,3,0,1676859060,"/0x00-shell_basics/11-lists"
+-'  1  0  /0x00-shell_basics/11-lists
+|4,39,1,0,1676859039,"/0x00-shell_basics/11-lists"
+-'  1  0  /0x00-shell_basics/11-lists
+|4,39,1,0,1676859039,"/0x00-shell_basics/11-lists"
+-'  1  0  /0x00-shell_basics/11-lists
+|4,39,1,0,1676859039,"/0x00-shell_basics/11-lists"
+-'  1  0  /0x00-shell_basics/11-lists
+|4,39,1,0,1676859039,"/0x00-shell_basics/11-lists"
 -'  1  0  /0x00-shell_basics/11-lists
 |4,39,1,0,1676859039,"/0x00-shell_basics/11-lists"
 -'  1  0  /0x00-shell_basics/11-lists
@@ -146,6 +176,38 @@
 |4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
 -'  3  0  /0x00-shell_basics/8-firstdelete
 |4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  3  0  /0x00-shell_basics/8-firstdelete
+|4,39,3,0,1676859010,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
+-'  1  0  /0x00-shell_basics/8-firstdelete
+|4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
 -'  1  0  /0x00-shell_basics/8-firstdelete
 |4,39,1,0,1676858989,"/0x00-shell_basics/8-firstdelete"
 -'  1  0  /0x00-shell_basics/8-firstdelete
@@ -194,6 +256,38 @@
 |4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
 -'  3  0  /0x00-shell_basics/7-movethatfile
 |4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
+-'  3  0  /0x00-shell_basics/7-movethatfile
+|4,39,3,0,1676858961,"/0x00-shell_basics/7-movethatfile"
 -'  1  0  /0x00-shell_basics/7-movethatfile
 |4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
 -'  1  0  /0x00-shell_basics/7-movethatfile
@@ -208,102 +302,15 @@
 |4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
 -'  1  0  /0x00-shell_basics/7-movethatfile
 |4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  1  0  /0x00-shell_basics/7-movethatfile
-|4,39,1,0,1676858933,"/0x00-shell_basics/7-movethatfile"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  2  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,2,0,1676858899,"/0x00-shell_basics/5-listfilesdigitonly"
--'  1  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,1,0,1676858841,"/0x00-shell_basics/5-listfilesdigitonly"
--'  1  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,1,0,1676858841,"/0x00-shell_basics/5-listfilesdigitonly"
--'  1  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,1,0,1676858841,"/0x00-shell_basics/5-listfilesdigitonly"
--'  1  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,1,0,1676858841,"/0x00-shell_basics/5-listfilesdigitonly"
--'  1  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,1,0,1676858841,"/0x00-shell_basics/5-listfilesdigitonly"
--'  1  0  /0x00-shell_basics/5-listfilesdigitonly
-|4,39,1,0,1676858841,"/0x00-shell_basics/5-listfilesdigitonly"
 
 # History of marks within files (newest to oldest):
+
+> /alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
+	*	1676865467	0
+	"	2	37
+	^	2	38
+	.	2	38
+	+	2	38
 
 > /0x00-shell_basics/14-copy_html
 	*	1676859173	0
@@ -561,13 +568,6 @@
 	^	2	32
 	.	2	31
 	+	2	31
-
-> /alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
-	*	1676296383	0
-	"	2	36
-	^	2	37
-	.	2	36
-	+	2	36
 
 > /alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
 	*	1676296137	0
